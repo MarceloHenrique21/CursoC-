@@ -1,4 +1,5 @@
-Using System;
+using System;
+using System.Globalization;
 
 class arquivo1{
 
