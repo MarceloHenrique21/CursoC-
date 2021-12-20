@@ -1,4 +1,5 @@
 using System;
+using System.Globalization;
 
 class arquivo3{
         public static void Main(){
