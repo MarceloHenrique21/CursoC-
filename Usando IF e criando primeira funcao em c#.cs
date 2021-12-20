@@ -18,18 +18,7 @@ class arquivo3{
 
 
 
-    // --------------------------- IF que eu fiz de teste 
-        int A = 30;
-
-        if (A < 20 || A != 30){
-
-            Console.WriteLine("O A É MENOR QUE 20 OU É IGUAL A TRINTA");
-
-           }else{
-
-            Console.WriteLine("O A É MAIOR QUE 20");
-        }
-    //--------------------------------------------- Fim do IF
+   
      
 
 
